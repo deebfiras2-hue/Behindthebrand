@@ -1,0 +1,15 @@
+{"keywords":["rent","billion","landlord","forty","percent","ten","land","royalties","1956","nineteen"],
+"shots":[
+{"at":"start","kind":"card","bg":"ink","big":"10B+","cur":"$","size":330,"label":"IN RENT. NOT BURGERS.","hit":true},
+{"at":"Rent, not","kind":"clip","src":"assets/clips/kitchen.mp4"},
+{"at":"In nineteen","kind":"card","bg":"cream","big":"1956","size":300,"label":"A REAL ESTATE ARM","hit":true},
+{"at":"the company set","kind":"clip","src":"assets/clips/mall.mp4"},
+{"at":"Today they","kind":"card","bg":"ink","big":"RENT + ROYALTIES","size":130,"y":720,"label":"PAID BY FRANCHISEES"},
+{"at":"That rent","kind":"card","bg":"cream","big":"39%","size":330,"label":"OF TOTAL REVENUE, 2024","hit":true},
+{"at":"of the company's","kind":"clip","src":"assets/clips/office.mp4"},
+{"at":"McDonald's isn't","kind":"clip","src":"assets/clips/city.mp4"},
+{"at":"It's its","kind":"card","bg":"ink","big":"LANDLORD","size":170,"y":700,"label":"NOT JUST A BURGER BRAND","hit":true},
+{"at":"Own the","kind":"clip","src":"assets/clips/money.mp4"},
+{"at":"and you win","kind":"card","bg":"cream","big":"WIN","size":260,"label":"EITHER WAY"},
+{"at":"Which would","kind":"card","bg":"ink","big":"RESTAURANT","size":150,"y":680,"label":"OR THE LAND?"}
+]}

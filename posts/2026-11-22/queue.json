@@ -1,0 +1,34 @@
+{
+ "date": "2026-11-22",
+ "items": [
+  {
+   "id": "c1",
+   "type": "carousel",
+   "time_utc": "2026-11-22T12:00:00Z",
+   "files": [
+    "posts/2026-11-22/CAROUSEL/1.jpg",
+    "posts/2026-11-22/CAROUSEL/2.jpg",
+    "posts/2026-11-22/CAROUSEL/3.jpg",
+    "posts/2026-11-22/CAROUSEL/4.jpg",
+    "posts/2026-11-22/CAROUSEL/5.jpg",
+    "posts/2026-11-22/CAROUSEL/6.jpg"
+   ],
+   "caption": "Costco has charged $1.50 for a hot dog and soda since the 1980s 🌭\n\nThe deal loses money on paper, and the co-founder reportedly warned: \"If you raise the effing hot dog, I will kill you. Figure it out.\"\nWhy hold the price? Because the real profit is the membership card: $5.3 billion in fees in fiscal 2025, about half of Costco's operating income.\nCostco even built its own hot dog to protect the price: its own Kirkland franks since 2009, and cheaper drinks along the way.\nOne cheap product can sell the whole store.\n\nWhat is the cheapest thing a store sold you that made you loyal to it? 👇\n\nSend this to someone who loves business stories.\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: NPR (2024), Fortune, Costco fiscal 2025 results release, Costco Q3 FY2024 earnings call, US BLS CPI-U\n\n#behindthebrand #business #businessstrategy #costco #retail #marketing #pricing #entrepreneur #lossleader #businessstories",
+   "verified": true,
+   "status": "ready"
+  },
+  {
+   "id": "r1",
+   "type": "reel",
+   "time_utc": "2026-11-22T18:00:00Z",
+   "files": [
+    "posts/2026-11-22/REEL/reel.mp4"
+   ],
+   "cover": "posts/2026-11-22/REEL/reel-cover.jpg",
+   "caption": "McDonald's collected over $10 billion in rent in 2024. Not from burgers 🍔\n\nIts franchisees pay rent plus royalties on their sales.\nThat rent alone was nearly 40% of McDonald's total revenue in 2024.\nIt is not just a burger brand. It is its franchisees' landlord.\nOwn the ground under the business and you win either way.\n\nWhich would you rather own: the restaurant or the land? 👇\n\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: McDonald's 2024 Form 10-K (SEC): rents $10,017M of $25,920M total revenues\nVisuals: Pixabay\n\n#behindthebrand #business #businessstrategy #mcdonalds #realestate #franchise #entrepreneur #money #investing101 #businessstories",
+   "verified": true,
+   "status": "ready",
+   "needs_sound": false
+  }
+ ]
+}
