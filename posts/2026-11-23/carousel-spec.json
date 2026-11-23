@@ -1,0 +1,71 @@
+{
+ "cover": {
+  "pill": "HOW THEY MAKE MONEY",
+  "photo": "posts/2026-11-23/src/delta.jpg",
+  "focus": [
+   0.5,
+   0.62
+  ],
+  "hero": "8.2",
+  "hero_cur": "$",
+  "hero_suf": "B",
+  "hero_size": 200,
+  "headline": "One card deal paid Delta {more than its operating profit.}",
+  "hsize": 76,
+  "credit": "Photo: Oleg Yunakov / CC0 via Wikimedia Commons"
+ },
+ "slides": [
+  {
+   "label": "THE SETUP",
+   "kicker": "HOW IT WORKS",
+   "headline": "Every swipe on a {Delta Amex card} pays Delta.",
+   "body": "American Express is the exclusive issuer of Delta SkyMiles cards. Cardholders earn miles on their spending, and *Amex pays Delta* for it. The partnership goes back to *1996* and now runs through *2029.*",
+   "source": "Delta; American Express; The Points Guy",
+   "hsize": 92,
+   "bsize": 46
+  },
+  {
+   "label": "THE NUMBER",
+   "kicker": "THE TWIST",
+   "headline": "$8.2 billion in {2025.}",
+   "body": "That's Delta's *American Express remuneration* in 2025, up 11% in a year. Delta's entire *operating income* was $5.8 billion. ==Revenue isn't profit.== But this one payment was bigger than the airline's whole operating income.",
+   "source": "Delta full-year 2025 results (Jan 2026)",
+   "hsize": 100,
+   "bsize": 46
+  },
+  {
+   "label": "THE GROWTH",
+   "kicker": "THREE DATES",
+   "kind": "rows",
+   "lsize": 56,
+   "rows": [
+    [
+     "1996",
+     "Delta and Amex *start their partnership.*"
+    ],
+    [
+     "2025",
+     "*1 million+ new cards* for the fourth straight year."
+    ],
+    [
+     "NEXT",
+     "Delta targets *$10 billion* a year within a few years."
+    ]
+   ],
+   "source": "Delta FY2025 results; The Points Guy"
+  },
+  {
+   "label": "THE PIVOT",
+   "kicker": "WHY IT MATTERS",
+   "headline": "So Delta sells {more than seats.}",
+   "body": "Premium cabins and other non-ticket revenue, loyalty included, made up *60%* of Delta's adjusted revenue in 2025, up from 57% the year before.",
+   "source": "Delta full-year 2025 results (Jan 2026)",
+   "hsize": 108,
+   "bsize": 50
+  }
+ ],
+ "last": {
+  "headline": "The plane gets you there. {The card gets paid.}",
+  "body": "When everyday spending is what you sell, the airline becomes the billboard."
+ }
+}

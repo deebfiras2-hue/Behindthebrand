@@ -688,7 +688,7 @@ export const LACounter: React.FC<LAProps & {value: number; start?: number; at?: 
   const c = useCtx(p);
   const y = p.y ?? 760;
   const items: Item[] = [
-    {type: 'counter', value: p.value, start: p.start ?? 0, at: p.at ?? 0.2, dur: p.countDur ?? 1.4, prefix: p.prefix, suffix: p.suffix, decimals: p.decimals, x: 540, y, size: 170, sfx: false},
+    {type: 'counter', value: p.value, start: (p as any).from ?? 0, at: p.at ?? 0.2, dur: p.countDur ?? 1.4, prefix: p.prefix, suffix: p.suffix, decimals: p.decimals, x: 540, y, size: 170, sfx: false},
   ];
   if (p.caption) items.push({type: 'text', text: p.caption, font: 'mono', size: 26, spacing: 6, color: 'muted', x: 540, y: y + 210, at: (typeof p.at === 'number' ? p.at : 0.2) + 0.4});
   return <Stage p={p} c={c} items={[...items, ...(p.items ?? [])]} />;

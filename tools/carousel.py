@@ -14,6 +14,50 @@ def header(img, d, label, dark):
     spaced(d, (M,76), label, barlow(26), GRAY if not dark else CREAM, 4)
     logo(img, W-M-84, 64, 84)
 
+def cover_photo(spec):
+    """COVER A: photo full-bleed on the top ~60%, gradient to ink, pill, logo, optional big number, headline."""
+    img = Image.new("RGB",(W,H),INK)
+    ph = Image.open(spec["photo"]).convert("RGB")
+    PH = int(H*0.64)
+    fx, fy = spec.get("focus",(0.5,0.5))
+    sc = max(W/ph.width, PH/ph.height); ph = ph.resize((int(ph.width*sc)+1,int(ph.height*sc)+1), Image.LANCZOS)
+    x0 = int(min(max(fx*ph.width - W/2,0), ph.width-W)); y0 = int(min(max(fy*ph.height - PH/2,0), ph.height-PH))
+    ph = ph.crop((x0,y0,x0+W,y0+PH))
+    from PIL import ImageEnhance
+    ph = ImageEnhance.Contrast(ph).enhance(1.08)
+    img.paste(ph,(0,0))
+    # gradient from ~45% down
+    g = Image.new("L",(W,H),0); gd = ImageDraw.Draw(g); gs = int(H*0.40); ge = int(H*0.70)
+    for y in range(gs,H):
+        a = min(1.0,(y-gs)/(ge-gs)); gd.line((0,y,W,y), fill=int(255*a**1.3))
+    img.paste(Image.new("RGB",(W,H),INK),(0,0),g)
+    # top shade for pill legibility
+    ts = Image.new("L",(W,260),0); tdd = ImageDraw.Draw(ts)
+    for y in range(260): tdd.line((0,y,W,y), fill=int(120*(1-y/260)))
+    img.paste(Image.new("RGB",(W,260),INK),(0,0),ts)
+    d = ImageDraw.Draw(img)
+    f = barlow(26); t = spec["pill"]; w = tw(d,t,f,4)+56
+    d.rounded_rectangle((M,60,M+w,60+58), radius=29, outline=CREAM, width=2, fill=(17,17,17))
+    spaced(d,(M+28,74),t,f,CREAM,4)
+    logo(img, W-M-84, 64, 84)
+    y = 690
+    if spec.get("hero"):
+        size = spec.get("hero_size",220); fh = gel(size); fc = gel(int(size*0.42))
+        cur = spec.get("hero_cur",""); suf = spec.get("hero_suf","")
+        parts = []
+        if cur: parts.append((cur,fc,GREEN))
+        parts.append((spec["hero"],fh,CREAM))
+        if suf: parts.append((suf,fc,GREEN))
+        x = M
+        for tx,fo,col in parts:
+            d.text((x,y+(size*0.06 if fo is fc else 0)),tx,font=fo,fill=col); x += d.textlength(tx,font=fo)+8
+        y += int(size*1.12)
+    draw_rich(img, d, M, y, spec["headline"], spec.get("hsize",78), W-2*M, spec.get("hsize",78)*1.26, CREAM, gel, True)
+    if spec.get("credit"):
+        d.text((M,1208),spec["credit"],font=barlow(18),fill=GRAY)
+    footer(img, d, True, "SWIPE ›")
+    return img
+
 def cover(spec):
     img = Image.new("RGB",(W,H),INK); d = ImageDraw.Draw(img)
     # pill
@@ -95,7 +139,7 @@ def last(spec, n, total):
 def render(spec, out):
     os.makedirs(out, exist_ok=True)
     total = 2 + len(spec["slides"])
-    imgs = [cover(spec["cover"])] + [inner(s,i+2,total) for i,s in enumerate(spec["slides"])] + [last(spec["last"],total,total)]
+    imgs = [(cover_photo if spec["cover"].get("photo") else cover)(spec["cover"])] + [inner(s,i+2,total) for i,s in enumerate(spec["slides"])] + [last(spec["last"],total,total)]
     paths=[]
     for i,im in enumerate(imgs,1):
         p=os.path.join(out,f"{i}.jpg"); im.save(p,"JPEG",quality=95,subsampling=0); paths.append(p)

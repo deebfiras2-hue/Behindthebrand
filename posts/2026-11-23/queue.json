@@ -1,0 +1,35 @@
+{
+ "date": "2026-11-23",
+ "items": [
+  {
+   "id": "c1",
+   "type": "carousel",
+   "series": "HOW THEY MAKE MONEY",
+   "time_utc": "2026-11-23T12:00:00Z",
+   "files": [
+    "posts/2026-11-23/CAROUSEL/1.jpg",
+    "posts/2026-11-23/CAROUSEL/2.jpg",
+    "posts/2026-11-23/CAROUSEL/3.jpg",
+    "posts/2026-11-23/CAROUSEL/4.jpg",
+    "posts/2026-11-23/CAROUSEL/5.jpg",
+    "posts/2026-11-23/CAROUSEL/6.jpg"
+   ],
+   "caption": "Amex paid Delta $8.2 billion in 2025. Delta's entire operating income was $5.8 billion ✈️\n\nDelta's credit card partner is a money machine hiding behind the plane.\nAmerican Express issues the Delta SkyMiles cards, and cardholders earn miles on their spending. Amex pays Delta for it: $8.2 billion in 2025, up 11%.\nRevenue isn't profit, but that one payment was bigger than the airline's whole operating income.\nDelta now targets $10 billion a year within a few years.\n\nDo you have an airline credit card, and is it actually worth it? 👇\n\nSend this to someone who loves business stories.\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: Delta full-year 2025 results (Jan 2026); Delta and American Express partnership announcements; The Points Guy\nPhotos: Oleg Yunakov / CC0 via Wikimedia Commons\n\n#behindthebrand #business #businessstrategy #delta #airlines #americanexpress #loyaltyprogram #creditcards #entrepreneur #businessstories",
+   "verified": true,
+   "status": "ready"
+  },
+  {
+   "id": "r1",
+   "type": "reel",
+   "time_utc": "2026-11-23T18:00:00Z",
+   "files": [
+    "posts/2026-11-23/REEL/reel.mp4"
+   ],
+   "cover": "posts/2026-11-23/REEL/reel-cover.jpg",
+   "caption": "Starbucks is secretly a bank that sells coffee ☕\n\nCustomers keep roughly $2 billion loaded on Starbucks cards and in its app.\nStarbucks holds that cash before anyone buys a latte, and pays no interest on it.\nWhen balances are forgotten, Starbucks books the unspent money as income: over $200 million in fiscal 2024.\nGet paid first, deliver later.\n\nWould you load money on a coffee card? 👇\n\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: Starbucks annual reports / Form 10-K filings (stored value card and loyalty liability, breakage, 2022-2025); Finbold and Dave Manuel analyses of Starbucks' fiscal 2024 breakage\n\n#behindthebrand #business #businessstrategy #starbucks #coffee #finance #marketing #entrepreneur #moneyfacts #businessstories",
+   "verified": true,
+   "status": "ready",
+   "needs_sound": false
+  }
+ ]
+}

@@ -1,0 +1,173 @@
+{
+ "id": "starbucks-float",
+ "theme": "behindthebrand",
+ "mode": "lineart",
+ "voice": {
+  "src": "starbucks-float/voice.mp3",
+  "words": "starbucks-float/words.json"
+ },
+ "music": {
+  "src": "music/curious-1.mp3",
+  "speechDb": -20,
+  "gapDb": -15,
+  "tailDb": -12
+ },
+ "narration": {
+  "pos": "bottom",
+  "y": 1470,
+  "size": 58
+ },
+ "cover": {
+  "frame": 75
+ },
+ "scenes": [
+  {
+   "type": "la-title",
+   "start": 0,
+   "title": "Starbucks is secretly a bank.",
+   "titleY": 560,
+   "titleSize": 120,
+   "items": [
+    {
+     "kind": "coinStack",
+     "x": 540,
+     "y": 1080,
+     "s": 3.2,
+     "at": "w3"
+    }
+   ]
+  },
+  {
+   "type": "la-counter",
+   "start": "w8-0.1",
+   "transition": "fade",
+   "title": "Cash on cards",
+   "value": 2,
+   "prefix": "$",
+   "suffix": "B",
+   "decimals": 0,
+   "at": "w13",
+   "countDur": 1.4,
+   "caption": "BILLION DOLLARS, BEFORE ANYONE BUYS A LATTE",
+   "y": 880,
+   "items": []
+  },
+  {
+   "type": "la-flow",
+   "start": "w23-0.1",
+   "transition": "fade",
+   "title": "Your money, their cash",
+   "at": 0.3,
+   "step": 1.2,
+   "dir": "h",
+   "y": 900,
+   "nodes": [
+    {
+     "kind": "person",
+     "label": "YOU LOAD $"
+    },
+    {
+     "kind": "phone",
+     "label": "THE APP"
+    },
+    {
+     "kind": "coinStack",
+     "label": "STARBUCKS",
+     "accent": true
+    }
+   ]
+  },
+  {
+   "type": "la-reveal",
+   "start": "w33-0.1",
+   "transition": "fade",
+   "label": "T H E   C A T C H",
+   "lines": [
+    {
+     "text": "And it pays you",
+     "fromWord": 33,
+     "size": 88,
+     "y": 520
+    },
+    {
+     "text": "zero interest.",
+     "fromWord": 35,
+     "accent": [
+      "zero"
+     ],
+     "size": 88,
+     "y": 660
+    }
+   ],
+   "y": 520
+  },
+  {
+   "type": "la-counter",
+   "start": "w40-0.1",
+   "transition": "fade",
+   "title": "Forgotten balances",
+   "value": 200,
+   "prefix": "$",
+   "suffix": "M+",
+   "at": "w54",
+   "countDur": 1.6,
+   "caption": "UNSPENT BALANCES BOOKED AS INCOME",
+   "y": 900
+  },
+  {
+   "type": "la-reveal",
+   "start": "w65-0.1",
+   "transition": "fade",
+   "label": "I N   S H O R T",
+   "lines": [
+    {
+     "text": "An interest-free loan",
+     "fromWord": 65,
+     "accent": [
+      "interest-free"
+     ],
+     "size": 84,
+     "y": 520
+    },
+    {
+     "text": "from coffee lovers.",
+     "fromWord": 69,
+     "size": 84,
+     "y": 660
+    }
+   ]
+  },
+  {
+   "type": "la-reveal",
+   "start": "w74-0.1",
+   "transition": "fade",
+   "label": "T H E   L E S S O N",
+   "lines": [
+    {
+     "text": "Get paid first.",
+     "fromWord": 76,
+     "accent": [
+      "paid"
+     ],
+     "size": 88,
+     "y": 520
+    },
+    {
+     "text": "Deliver later.",
+     "fromWord": 79,
+     "size": 88,
+     "y": 660
+    }
+   ]
+  },
+  {
+   "type": "la-end",
+   "start": "w81-0.1",
+   "transition": "fade",
+   "signoff": "Would you load money on a coffee card?",
+   "fromWord": 81,
+   "outro": "Follow for more",
+   "outroWord": 90
+  }
+ ]
+}

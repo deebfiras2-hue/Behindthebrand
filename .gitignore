@@ -1,0 +1,7 @@
+node_modules/
+reel-v2/node_modules/
+reel-v2/public/fonts/
+reel-v2/public/sfx/
+reel-v2/public/music/
+reel-v2/out/
+__pycache__/
