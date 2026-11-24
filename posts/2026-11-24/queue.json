@@ -1,0 +1,35 @@
+{
+ "date": "2026-11-24",
+ "items": [
+  {
+   "id": "c1",
+   "type": "carousel",
+   "series": "MARKETING TRICK",
+   "time_utc": "2026-11-24T12:00:00Z",
+   "files": [
+    "posts/2026-11-24/CAROUSEL/1.jpg",
+    "posts/2026-11-24/CAROUSEL/2.jpg",
+    "posts/2026-11-24/CAROUSEL/3.jpg",
+    "posts/2026-11-24/CAROUSEL/4.jpg",
+    "posts/2026-11-24/CAROUSEL/5.jpg",
+    "posts/2026-11-24/CAROUSEL/6.jpg"
+   ],
+   "caption": "IKEA makes you walk the whole store, then build the furniture yourself. Psychologists say the second part makes you value it more 🛋️\n\nThe path through an IKEA winds past room after room, so you keep walking and get reminded of things you'd forgotten.\nThen comes the assembly. In a 2012 study, people who built an IKEA box were willing to pay significantly more for it than for one built by someone else.\nThe catch: it only works when you finish. When people failed to complete the task, the effect disappeared.\n\nWould you rather buy it built or build it yourself? 👇\n\nSend this to someone who loves business stories.\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: Fortune (Sept 2023, citing Ingka Group and Reuters); Norton, Mochon & Ariely, \"The IKEA Effect: When Labor Leads to Love\", Journal of Consumer Psychology (2012)\nPhotos: Raysonho / CC0 via Wikimedia Commons\n\n#behindthebrand #business #businessstrategy #ikea #marketing #consumerpsychology #retail #storedesign #entrepreneur #businessstories",
+   "verified": true,
+   "status": "ready"
+  },
+  {
+   "id": "r1",
+   "type": "reel",
+   "time_utc": "2026-11-24T18:00:00Z",
+   "files": [
+    "posts/2026-11-24/REEL/reel.mp4"
+   ],
+   "cover": "posts/2026-11-24/REEL/reel-cover.jpg",
+   "caption": "Disney isn't really a movie company 🏰\n\nDisney's theme parks, cruises and merchandise (its Experiences segment) made about $10 billion in operating income in fiscal 2025.\nThat's roughly 57% of Disney's total segment operating income of $17.6 billion.\nIts Entertainment segment (film, TV and streaming) made $4.7 billion.\nThe characters come from the screen. The big profit comes from the parks.\n\nWould you rather own the studio or the theme park? 👇\n\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: The Walt Disney Company, Q4 and full-year fiscal 2025 earnings release (Nov 2025): Experiences $9,995M, Entertainment $4,674M, Sports $2,882M, total segment operating income $17,551M\n\n#behindthebrand #business #businessstrategy #disney #themeparks #entertainment #moneyfacts #entrepreneur #brands #businessstories",
+   "verified": true,
+   "status": "ready",
+   "needs_sound": false
+  }
+ ]
+}
