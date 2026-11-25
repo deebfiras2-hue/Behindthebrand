@@ -38,5 +38,19 @@
   "angle": "Experiences segment profit vs Entertainment",
   "series": "reel",
   "format": "reel"
+ },
+ {
+  "date": "2026-11-25",
+  "brand": "Spanx",
+  "angle": "founder story: $5,000, no investors, Blackstone 2021",
+  "series": "FOUNDER STORY",
+  "format": "carousel"
+ },
+ {
+  "date": "2026-11-25",
+  "brand": "Google / Apple",
+  "angle": "default search deal ~$20B a year",
+  "series": "reel",
+  "format": "reel"
  }
 ]

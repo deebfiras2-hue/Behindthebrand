@@ -1,0 +1,70 @@
+{
+ "cover": {
+  "pill": "FOUNDER STORY",
+  "photo": "posts/2026-11-25/src/blakely2.jpg",
+  "focus": [
+   0.5,
+   0.3
+  ],
+  "headline": "That started Spanx. {No investors.}",
+  "hsize": 80,
+  "credit": "Photo: Gillian Zoe Segal / CC BY-SA 4.0 via Wikimedia Commons",
+  "hero": "5,000",
+  "hero_cur": "$",
+  "hero_size": 200
+ },
+ "slides": [
+  {
+   "label": "THE IDEA",
+   "kicker": "LATE 1990s",
+   "headline": "A fax machine {saleswoman} had a problem.",
+   "body": "Sara Blakely had *never taken a business class* or worked in fashion. She wanted to avoid panty lines without a bulky girdle, so she *cut the feet off* control-top pantyhose.",
+   "source": "Fortune (2024, 2025)",
+   "hsize": 92,
+   "bsize": 42
+  },
+  {
+   "label": "THE PITCH",
+   "kicker": "2000",
+   "kind": "rows",
+   "lsize": 54,
+   "rows": [
+    [
+     "$5,000",
+     "Her *savings*, she has said, from selling fax machines. That was the budget."
+    ],
+    [
+     "10 MIN",
+     "She got *ten minutes* with Neiman Marcus buyers, and paid her own flight to Dallas."
+    ],
+    [
+     "OPRAH",
+     "She mailed Oprah a *prototype and a handwritten note.* Oprah later named Spanx a favorite product."
+    ]
+   ],
+   "source": "Fortune (2025); Stanford GSB"
+  },
+  {
+   "label": "THE RULE",
+   "kicker": "THE TWIST",
+   "headline": "She never took a {single investor.}",
+   "body": "Blakely launched with *no outside investors* and, Stanford GSB reports, kept *100% ownership.* In *2012,* Forbes named her the *youngest self-made female billionaire.*",
+   "source": "Stanford GSB; Fortune (2025); Forbes (2012)",
+   "hsize": 96,
+   "bsize": 44
+  },
+  {
+   "label": "THE EXIT",
+   "kicker": "2021",
+   "headline": "Then Blackstone {bought in.}",
+   "body": "In *2021,* Blackstone bought a *majority stake* at a *$1.2 billion* valuation. Blakely kept a significant stake and stayed on as executive chairwoman. ==Not bad for $5,000.==",
+   "source": "Reuters / Blackstone (Oct-Nov 2021)",
+   "hsize": 100,
+   "bsize": 44
+  }
+ ],
+ "last": {
+  "headline": "Solve {your own annoying problem,} and keep control.",
+  "body": "Blakely's first big asset wasn't money. It was a problem she knew better than anyone. Which would you rather have: a big check or full control?"
+ }
+}

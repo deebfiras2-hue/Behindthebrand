@@ -1,0 +1,35 @@
+{
+ "date": "2026-11-25",
+ "items": [
+  {
+   "id": "c1",
+   "type": "carousel",
+   "series": "FOUNDER STORY",
+   "time_utc": "2026-11-25T12:00:00Z",
+   "files": [
+    "posts/2026-11-25/CAROUSEL/1.jpg",
+    "posts/2026-11-25/CAROUSEL/2.jpg",
+    "posts/2026-11-25/CAROUSEL/3.jpg",
+    "posts/2026-11-25/CAROUSEL/4.jpg",
+    "posts/2026-11-25/CAROUSEL/5.jpg",
+    "posts/2026-11-25/CAROUSEL/6.jpg"
+   ],
+   "caption": "She started Spanx with $5,000 and never took an outside investor. Then she became a billionaire 🧦\n\nSara Blakely was a fax machine saleswoman with no fashion or business training. She cut the feet off control-top pantyhose to solve her own problem.\nShe got ten minutes with Neiman Marcus buyers and paid her own flight to pitch them.\nIn 2012, Forbes named her the youngest self-made female billionaire. In 2021, Blackstone bought a majority stake at a $1.2 billion valuation.\n\nWould you rather have a big check or full control of your company? 👇\n\nSend this to someone who loves business stories.\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: Fortune (2024, 2025); Stanford GSB; Forbes (2012); Reuters and Blackstone press release (Oct-Nov 2021)\nPhotos: Gillian Zoe Segal / CC BY-SA 4.0 via Wikimedia Commons\n\n#behindthebrand #business #businessstrategy #spanx #sarablakely #founderstory #entrepreneur #startup #womeninbusiness #businessstories",
+   "verified": true,
+   "status": "ready"
+  },
+  {
+   "id": "r1",
+   "type": "reel",
+   "time_utc": "2026-11-25T18:00:00Z",
+   "files": [
+    "posts/2026-11-25/REEL/reel.mp4"
+   ],
+   "cover": "posts/2026-11-25/REEL/reel-cover.jpg",
+   "caption": "Google pays Apple about $20 billion a year. For one setting on your iPhone 📱\n\nCourt filings put Google's payment to Apple at about $20 billion in 2022, to be the default search engine in Safari.\nGoogle's CEO confirmed in court that it shares 36% of its Safari search ad revenue with Apple.\nIn 2025 a judge ruled the payments can continue, but not as exclusive deals.\n\nWould you ever change your default search engine? 👇\n\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: Bloomberg and MacRumors (May 2024); Fortune and Search Engine Land (Nov 2023, trial testimony); NPR and 9to5Mac (Sept 2025, remedies ruling)\n\n#behindthebrand #business #businessstrategy #google #apple #tech #seo #moneyfacts #entrepreneur #businessstories",
+   "verified": true,
+   "status": "ready",
+   "needs_sound": false
+  }
+ ]
+}

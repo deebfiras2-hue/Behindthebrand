@@ -1,0 +1,189 @@
+{
+ "id": "google-apple",
+ "duration": 39.8,
+ "theme": "behindthebrand",
+ "mode": "lineart",
+ "voice": {
+  "src": "google-apple/voice.mp3",
+  "words": "google-apple/words.json"
+ },
+ "music": {
+  "src": "music/curious-1.mp3",
+  "speechDb": -20,
+  "gapDb": -15,
+  "tailDb": -12
+ },
+ "narration": {
+  "pos": "bottom",
+  "y": 1470,
+  "size": 58
+ },
+ "cover": {
+  "frame": 75
+ },
+ "scenes": [
+  {
+   "type": "la-title",
+   "start": 0,
+   "title": "Google pays Apple.",
+   "titleY": 560,
+   "titleSize": 120,
+   "items": [
+    {
+     "kind": "coinStack",
+     "x": 540,
+     "y": 1080,
+     "s": 3.0,
+     "at": "w3"
+    }
+   ]
+  },
+  {
+   "type": "la-counter",
+   "start": "w4-0.1",
+   "transition": "fade",
+   "title": "Paid to Apple in 2022",
+   "value": 20,
+   "prefix": "$",
+   "suffix": "B",
+   "decimals": 0,
+   "at": "w4",
+   "countDur": 1.3,
+   "caption": "REPORTED IN COURT FILINGS",
+   "y": 900
+  },
+  {
+   "type": "la-title",
+   "start": "w9-0.1",
+   "transition": "fade",
+   "title": "Not for ads. Not for tech.",
+   "titleY": 600,
+   "titleSize": 104,
+   "items": [
+    {
+     "kind": "cross",
+     "x": 540,
+     "y": 1060,
+     "s": 3.0,
+     "at": "w12"
+    }
+   ]
+  },
+  {
+   "type": "la-title",
+   "start": "w15-0.1",
+   "transition": "fade",
+   "title": "Just to be the default.",
+   "titleY": 520,
+   "titleSize": 104,
+   "items": [
+    {
+     "kind": "phone",
+     "x": 540,
+     "y": 1000,
+     "s": 4.2,
+     "at": "w16",
+     "params": {
+      "screen": "lit"
+     }
+    }
+   ]
+  },
+  {
+   "type": "la-counter",
+   "start": "w34-0.1",
+   "transition": "fade",
+   "title": "Safari search ad revenue",
+   "value": 36,
+   "suffix": "%",
+   "decimals": 0,
+   "at": "w43",
+   "countDur": 1.2,
+   "caption": "SHARED WITH APPLE, PER GOOGLE'S CEO",
+   "y": 900
+  },
+  {
+   "type": "la-flow",
+   "start": "w53-0.1",
+   "transition": "fade",
+   "title": "Why pay so much?",
+   "at": 0.6,
+   "step": 1.6,
+   "dir": "h",
+   "y": 900,
+   "nodes": [
+    {
+     "kind": "phone",
+     "label": "YOUR IPHONE",
+     "s": 1.5
+    },
+    {
+     "kind": "door",
+     "label": "THE DEFAULT",
+     "s": 1.5,
+     "accent": true
+    },
+    {
+     "kind": "coinStack",
+     "label": "SEARCH ADS",
+     "s": 1.5
+    }
+   ]
+  },
+  {
+   "type": "la-reveal",
+   "start": "w71-0.1",
+   "transition": "fade",
+   "label": "J U D G E ,   2 0 2 5",
+   "lines": [
+    {
+     "text": "Payments can continue.",
+     "fromWord": 78,
+     "size": 84,
+     "y": 520
+    },
+    {
+     "text": "Exclusive deals can't.",
+     "fromWord": 82,
+     "accent": [
+      "can't."
+     ],
+     "size": 84,
+     "y": 660
+    }
+   ]
+  },
+  {
+   "type": "la-reveal",
+   "start": "w87-0.1",
+   "transition": "fade",
+   "label": "T H E   L E S S O N",
+   "lines": [
+    {
+     "text": "Own the default,",
+     "fromWord": 89,
+     "size": 92,
+     "y": 520
+    },
+    {
+     "text": "own the habit.",
+     "fromWord": 93,
+     "accent": [
+      "habit."
+     ],
+     "size": 92,
+     "y": 660
+    }
+   ]
+  },
+  {
+   "type": "la-end",
+   "start": "w97-0.1",
+   "transition": "fade",
+   "signoff": "Change your default?",
+   "fromWord": 97,
+   "outro": "Follow for more",
+   "outroWord": 105
+  }
+ ]
+}
