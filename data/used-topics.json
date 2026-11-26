@@ -52,5 +52,19 @@
   "angle": "default search deal ~$20B a year",
   "series": "reel",
   "format": "reel"
+ },
+ {
+  "date": "2026-11-26",
+  "brand": "Costco",
+  "angle": "$1.50 hot dog loss leader / membership fees (backlog from 2026-11-22)",
+  "series": "WHY IT COSTS THAT",
+  "format": "carousel"
+ },
+ {
+  "date": "2026-11-26",
+  "brand": "Ryanair",
+  "angle": "ancillary revenue EUR 4.7bn vs EUR 46 fares",
+  "series": "reel",
+  "format": "reel"
  }
 ]

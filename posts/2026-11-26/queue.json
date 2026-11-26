@@ -1,0 +1,35 @@
+{
+ "date": "2026-11-26",
+ "items": [
+  {
+   "id": "c1",
+   "type": "carousel",
+   "series": "WHY IT COSTS THAT",
+   "time_utc": "2026-11-26T12:00:00Z",
+   "files": [
+    "posts/2026-11-26/CAROUSEL/1.jpg",
+    "posts/2026-11-26/CAROUSEL/2.jpg",
+    "posts/2026-11-26/CAROUSEL/3.jpg",
+    "posts/2026-11-26/CAROUSEL/4.jpg",
+    "posts/2026-11-26/CAROUSEL/5.jpg",
+    "posts/2026-11-26/CAROUSEL/6.jpg"
+   ],
+   "caption": "Costco has charged $1.50 for a hot dog and soda since the 1980s 🌭\n\nThe deal loses money on paper, and the co-founder reportedly warned: \"If you raise the effing hot dog, I will kill you. Figure it out.\"\nWhy hold the price? Because the real profit is the membership card: $5.3 billion in fees in fiscal 2025, about half of Costco's operating income.\nCostco even built its own hot dog to protect the price: Kirkland Signature franks since 2009, and cost cuts on the drinks too.\nOne cheap product can sell the whole store.\n\nWhat is the cheapest thing a store sold you that made you loyal to it? 👇\n\nSend this to someone who loves business stories.\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: NPR (2024), Fortune, Costco fiscal 2025 results release, Costco earnings call (June 2024), US BLS CPI-U\n\n#behindthebrand #business #businessstrategy #costco #retail #marketing #pricing #entrepreneur #lossleader #businessstories",
+   "verified": true,
+   "status": "ready"
+  },
+  {
+   "id": "r1",
+   "type": "reel",
+   "time_utc": "2026-11-26T18:00:00Z",
+   "files": [
+    "posts/2026-11-26/REEL/reel.mp4"
+   ],
+   "cover": "posts/2026-11-26/REEL/reel-cover.jpg",
+   "caption": "Ryanair's average fare is about €46. Its extras bring in almost 3x its profit ✈️\n\nIn the year to March 2025, Ryanair earned €4.7 billion from extras like bags, seats and priority boarding.\nThat's about a third of its €13.95 billion revenue, against a profit after tax of €1.61 billion.\nGate staff have reportedly been offered bonuses for spotting oversized bags.\nThe ticket gets you in. The choices pay the bills.\n\nWould you pay extra to skip the line? 👇\n\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: Ryanair FY25 results release and annual report (May 2025); Irish Times and Euronews (Aug 2025)\n\n#behindthebrand #business #businessstrategy #ryanair #airlines #pricing #travel #moneyfacts #entrepreneur #businessstories",
+   "verified": true,
+   "status": "ready",
+   "needs_sound": false
+  }
+ ]
+}

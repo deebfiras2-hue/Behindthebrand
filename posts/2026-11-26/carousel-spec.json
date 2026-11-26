@@ -1,0 +1,67 @@
+{
+ "cover": {
+  "pill": "WHY IT COSTS THAT",
+  "hero": "1.50",
+  "hero_cur": "$",
+  "hero_size": 380,
+  "hero_y": 230,
+  "label": "SAME PRICE SINCE THE 1980s",
+  "headline": "Costco refuses to raise this price. It's {the smartest move in retail.}"
+ },
+ "slides": [
+  {
+   "label": "THE DEAL",
+   "kicker": "WHAT YOU GET",
+   "headline": "A hot dog and a soda. {$1.50.} Since the 1980s.",
+   "body": "The price never moved, while inflation kept going. In today's dollars, that 1980s $1.50 would be *roughly $4.50.* So why does Costco hold the line?",
+   "source": "NPR (2024); US BLS CPI-U",
+   "hsize": 104,
+   "bsize": 46
+  },
+  {
+   "label": "THE TWIST",
+   "kicker": "THE RULE",
+   "kind": "quote",
+   "quote": "If you raise the effing hot dog, I will kill you. {Figure it out.}",
+   "by": "\u2014 JIM SINEGAL, CO-FOUNDER (AS TOLD BY CRAIG JELINEK)",
+   "body": "Jelinek reportedly wanted to raise the price because Costco was losing money on it.",
+   "source": "Craig Jelinek interview, 2018, as reported by Fortune / NPR",
+   "qsize": 76,
+   "bsize": 44
+  },
+  {
+   "label": "THE SECRET",
+   "kicker": "WHERE THE MONEY COMES FROM",
+   "headline": "The real profit is {in the membership card.}",
+   "body": "In fiscal 2025, Costco collected *$5.3 billion* in membership fees. That's *about half* of its $10.4 billion operating income. The hot dog gets you in. ==The card pays the bills.==",
+   "source": "Costco fiscal 2025 results (year ended Aug 31, 2025)",
+   "hsize": 96,
+   "bsize": 44
+  },
+  {
+   "label": "HOW THEY DO IT",
+   "kicker": "THREE MOVES",
+   "kind": "rows",
+   "lsize": 60,
+   "rows": [
+    [
+     "2009",
+     "*Costco swaps Hebrew National* for its own Kirkland Signature franks to keep costs down."
+    ],
+    [
+     "Later",
+     "Food courts have *swapped soda suppliers* to keep drink costs low. The price stays."
+    ],
+    [
+     "2024",
+     "Costco's CFO says the $1.50 price is *\u201csafe.\u201d*"
+    ]
+   ],
+   "source": "Fortune; Food Republic; Costco earnings call (June 2024)"
+  }
+ ],
+ "last": {
+  "headline": "One cheap product can {sell the whole store.}",
+  "body": "A loss leader isn't a loss if it keeps members paying every year."
+ }
+}

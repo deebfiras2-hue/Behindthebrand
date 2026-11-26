@@ -1,0 +1,188 @@
+{
+ "id": "ryanair",
+ "duration": 38.2,
+ "theme": "behindthebrand",
+ "mode": "lineart",
+ "voice": {
+  "src": "ryanair/voice.mp3",
+  "words": "ryanair/words.json"
+ },
+ "music": {
+  "src": "music/curious-1.mp3",
+  "speechDb": -20,
+  "gapDb": -15,
+  "tailDb": -12
+ },
+ "narration": {
+  "pos": "bottom",
+  "y": 1470,
+  "size": 58
+ },
+ "cover": {
+  "frame": 75
+ },
+ "scenes": [
+  {
+   "type": "la-title",
+   "start": 0,
+   "title": "A \u20ac46 flight.",
+   "titleY": 560,
+   "titleSize": 130,
+   "items": [
+    {
+     "kind": "priceTag",
+     "x": 540,
+     "y": 1080,
+     "s": 3.0,
+     "at": "w5"
+    }
+   ]
+  },
+  {
+   "type": "la-title",
+   "start": "w9-0.1",
+   "transition": "fade",
+   "title": "Not where it makes money.",
+   "titleY": 560,
+   "titleSize": 104,
+   "items": [
+    {
+     "kind": "cross",
+     "x": 540,
+     "y": 1060,
+     "s": 3.0,
+     "at": "w12"
+    }
+   ]
+  },
+  {
+   "type": "la-reveal",
+   "start": "w17-0.1",
+   "transition": "fade",
+   "label": "T H E   E X T R A S",
+   "lines": [
+    {
+     "text": "Bags.",
+     "fromWord": 26,
+     "size": 110,
+     "y": 480
+    },
+    {
+     "text": "Seats.",
+     "fromWord": 27,
+     "size": 110,
+     "y": 620
+    },
+    {
+     "text": "Priority boarding.",
+     "fromWord": 29,
+     "accent": [
+      "boarding."
+     ],
+     "size": 110,
+     "y": 760
+    }
+   ]
+  },
+  {
+   "type": "la-counter",
+   "start": "w33-0.1",
+   "transition": "fade",
+   "title": "Extras, year to March 2025",
+   "value": 4.7,
+   "prefix": "\u20ac",
+   "suffix": "B",
+   "decimals": 1,
+   "at": "w33",
+   "countDur": 1.8,
+   "caption": "RYANAIR FY25 ANCILLARY REVENUE",
+   "y": 900
+  },
+  {
+   "type": "la-reveal",
+   "start": "w38-0.1",
+   "transition": "fade",
+   "label": "S H A R E   O F   R E V E N U E",
+   "lines": [
+    {
+     "text": "About a third",
+     "fromWord": 38,
+     "accent": [
+      "third"
+     ],
+     "size": 110,
+     "y": 520
+    },
+    {
+     "text": "of all revenue.",
+     "fromWord": 42,
+     "size": 110,
+     "y": 660
+    }
+   ]
+  },
+  {
+   "type": "la-counter",
+   "start": "w46-0.1",
+   "transition": "fade",
+   "title": "Extras vs. profit",
+   "value": 2.9,
+   "suffix": "\u00d7",
+   "decimals": 1,
+   "at": "w47",
+   "countDur": 1.4,
+   "caption": "NEARLY 3\u00d7 ITS \u20ac1.6B PROFIT",
+   "y": 900
+  },
+  {
+   "type": "la-title",
+   "start": "w57-0.1",
+   "transition": "fade",
+   "title": "A bonus for spotting big bags.",
+   "titleY": 560,
+   "titleSize": 96,
+   "items": [
+    {
+     "kind": "coin",
+     "x": 540,
+     "y": 1060,
+     "s": 3.0,
+     "at": "w62"
+    }
+   ]
+  },
+  {
+   "type": "la-reveal",
+   "start": "w69-0.1",
+   "transition": "fade",
+   "label": "T H E   L E S S O N",
+   "lines": [
+    {
+     "text": "Sell the ticket cheap,",
+     "fromWord": 71,
+     "size": 68,
+     "y": 520
+    },
+    {
+     "text": "earn on the choices.",
+     "fromWord": 75,
+     "accent": [
+      "choices."
+     ],
+     "size": 68,
+     "y": 640
+    }
+   ]
+  },
+  {
+   "type": "la-end",
+   "start": "w80-0.1",
+   "transition": "fade",
+   "signoff": "Pay extra to skip the line?",
+   "fromWord": 80,
+   "outro": "Follow for more",
+   "outroWord": 88,
+   "note": "True business stories, daily."
+  }
+ ]
+}
