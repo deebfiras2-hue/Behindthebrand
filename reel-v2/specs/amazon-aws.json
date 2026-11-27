@@ -1,0 +1,14 @@
+{"id":"amazon-aws","duration":38.2,"theme":"behindthebrand","mode":"lineart",
+ "voice":{"src":"amazon-aws/voice.mp3","words":"amazon-aws/words.json"},
+ "music":{"src":"music/neutral-1.mp3","speechDb":-20,"gapDb":-15,"tailDb":-12},
+ "narration":{"pos":"bottom","y":1470,"size":58},
+ "cover":{"frame":75},
+ "scenes":[
+ {"type":"la-title","start":0,"title":"Amazon's biggest profit isn't the store.","titleY":520,"titleSize":104,"items":[{"kind":"chart","x":540,"y":1080,"s":3.0,"at":"w5"}]},
+ {"type":"la-counter","start":"w12-0.1","transition":"fade","title":"AWS, Amazon's cloud arm","value":45.6,"prefix":"$","suffix":"B","decimals":1,"at":"w20","countDur":1.8,"caption":"OPERATING PROFIT, 2025","y":900},
+ {"type":"la-counter","start":"w28-0.1","transition":"fade","title":"Share of Amazon's profit","value":57,"suffix":"%","decimals":0,"at":"w29","countDur":1.3,"caption":"OF AMAZON'S OPERATING PROFIT, 2025","y":900},
+ {"type":"la-counter","start":"w36-0.1","transition":"fade","title":"Share of Amazon's sales","value":18,"suffix":"%","decimals":0,"at":"w38","countDur":1.2,"caption":"ONLY ABOUT 18% OF SALES, 2025","y":900},
+ {"type":"la-title","start":"w43-0.1","transition":"fade","title":"The store: huge, thin margins.","titleY":520,"titleSize":104,"items":[{"kind":"shop","x":540,"y":1100,"s":3.0,"at":"w44"}]},
+ {"type":"la-reveal","start":"w52-0.1","transition":"fade","label":"T H E   L E S S O N","lines":[{"text":"Sell the thing people see,","fromWord":54,"size":64,"y":520},{"text":"earn on the thing they don't.","fromWord":59,"accent":["don't."],"size":64,"y":640}]},
+ {"type":"la-end","start":"w66-0.1","transition":"fade","signoff":"The store or the cloud?","fromWord":66,"outro":"Follow for more","outroWord":76,"note":"True business stories, daily."}
+ ]}

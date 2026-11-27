@@ -1,0 +1,68 @@
+{
+ "cover": {
+  "pill": "BIG FAILS",
+  "photo": "posts/2026-11-27/src/blockbuster-miami-crop.jpg",
+  "focus": [
+   0.5,
+   0.45
+  ],
+  "hero": "50",
+  "hero_cur": "$",
+  "hero_suf": "M",
+  "hero_size": 190,
+  "headline": "Blockbuster could have bought Netflix. {It passed.}",
+  "hsize": 70,
+  "credit": "Photo: Phillip Pessar / CC BY 2.0 via Wikimedia Commons"
+ },
+ "slides": [
+  {
+   "label": "THE EMPIRE",
+   "kicker": "AROUND 2004",
+   "headline": "About {9,000 stores.}",
+   "body": "At its peak, *Blockbuster* ran roughly *9,000 stores.* Friday night meant walking down an aisle of cassettes and DVDs. Netflix was a young *DVD-by-mail* company.",
+   "source": "Business Insider; Mental Floss",
+   "hsize": 104,
+   "bsize": 46
+  },
+  {
+   "label": "THE MONEY MACHINE",
+   "kicker": "THE TWIST",
+   "headline": "{$800 million} in late fees.",
+   "body": "In *2000,* Blockbuster collected about *$800 million* in late fees, roughly *16% of its revenue,* AP reported. Customers hated them. Netflix's subscription had *no late fees.*",
+   "source": "AP via Mental Floss; Business Insider",
+   "hsize": 100,
+   "bsize": 48
+  },
+  {
+   "label": "THE OFFER",
+   "kicker": "2000",
+   "headline": "A {$50 million} offer.",
+   "body": "Netflix's co-founders say they offered to *sell to Blockbuster* for *$50 million.* Reed Hastings' book says CEO John Antioco *declined.* Antioco has disputed that any serious talks took place.",
+   "source": "Fortune (2023); Marketplace (2020); Newsweek",
+   "hsize": 104,
+   "bsize": 46
+  },
+  {
+   "label": "THE FALL",
+   "kicker": "2010",
+   "headline": "{Bankrupt} in 2010.",
+   "body": "Blockbuster filed for bankruptcy in *September 2010* to wipe out around *$1 billion* of debt. Its late-fee U-turn had reportedly cost an estimated *$200 million.*",
+   "source": "Business Insider; Mental Floss; Quartz",
+   "hsize": 110,
+   "bsize": 50
+  },
+  {
+   "label": "THE FLIP",
+   "kicker": "TODAY",
+   "headline": "Netflix: {300 million+} members.",
+   "body": "By the end of *2024,* Netflix reported over *300 million* paid memberships. Hastings has said: *\"Thank God\"* Blockbuster didn't take the deal.",
+   "source": "Netflix Q4 2024 letter; Marketplace (2020)",
+   "hsize": 96,
+   "bsize": 48
+  }
+ ],
+ "last": {
+  "headline": "Your biggest profit can be {your customers' biggest complaint.}",
+  "body": "Late fees were 16% of Blockbuster's revenue, and Netflix built a business on removing them. Would you have bought Netflix for $50 million?"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-27",
+ "items": [
+  {
+   "id": "c1",
+   "type": "carousel",
+   "series": "BIG FAILS",
+   "time_utc": "2026-11-27T12:00:00Z",
+   "files": [
+    "posts/2026-11-27/CAROUSEL/1.jpg",
+    "posts/2026-11-27/CAROUSEL/2.jpg",
+    "posts/2026-11-27/CAROUSEL/3.jpg",
+    "posts/2026-11-27/CAROUSEL/4.jpg",
+    "posts/2026-11-27/CAROUSEL/5.jpg",
+    "posts/2026-11-27/CAROUSEL/6.jpg",
+    "posts/2026-11-27/CAROUSEL/7.jpg"
+   ],
+   "caption": "Blockbuster could have bought Netflix for $50 million. Netflix's founders say it said no 🎬\n\nIn 2000, Netflix's co-founders say they offered to sell to Blockbuster for $50 million. Reed Hastings' book says CEO John Antioco declined; Antioco has disputed that serious talks took place.\nBlockbuster was making about $800 million a year from late fees, roughly 16% of its revenue. Netflix's subscription had none.\nBlockbuster filed for bankruptcy in September 2010. By the end of 2024, Netflix reported over 300 million paid memberships.\n\nWould you have bought Netflix for $50 million? 👇\n\nSend this to someone who loves business stories.\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: Fortune (2023); Marketplace excerpt of Reed Hastings' book (2020); Newsweek fact-check; AP via Mental Floss; Business Insider; Netflix Q4 2024 letter\nPhotos: Phillip Pessar / CC BY 2.0 via Wikimedia Commons (cropped)\n\n#behindthebrand #business #businessstrategy #blockbuster #netflix #bigfails #businesslessons #entrepreneur #streaming #businessstories",
+   "verified": true,
+   "status": "ready"
+  },
+  {
+   "id": "r1",
+   "type": "reel",
+   "time_utc": "2026-11-27T18:00:00Z",
+   "files": [
+    "posts/2026-11-27/REEL/reel.mp4"
+   ],
+   "cover": "posts/2026-11-27/REEL/reel-cover.jpg",
+   "caption": "Amazon makes more profit from cloud servers than from selling you anything ☁️\n\nIn 2025, AWS, Amazon's cloud arm, earned $45.6 billion in operating profit.\nThat's about 57% of Amazon's $80.0 billion total operating profit, from only about 18% of its $716.9 billion in sales.\nThe store you know is the huge, thin-margin part.\nSell the thing people see. Earn on the thing they don't.\n\nWhich would you rather own, the store or the cloud? 👇\n\nSend this to someone who loves business stories.\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: Amazon Q4 and full-year 2025 results release (Feb 2026); Digital Commerce 360 (Feb 2026)\n\n#behindthebrand #business #businessstrategy #amazon #aws #cloud #technology #moneyfacts #entrepreneur #businessstories",
+   "verified": true,
+   "status": "ready",
+   "needs_sound": false
+  }
+ ]
+}
