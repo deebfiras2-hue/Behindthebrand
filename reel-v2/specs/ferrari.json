@@ -1,0 +1,16 @@
+{"id":"ferrari","duration":37.0,"theme":"behindthebrand","mode":"lineart",
+ "voice":{"src":"ferrari/voice.mp3","words":"ferrari/words.json"},
+ "music":{"src":"music/upbeat-1.mp3","speechDb":-20,"gapDb":-15,"tailDb":-12},
+ "narration":{"pos":"bottom","y":1470,"size":58},
+ "cover":{"frame":75},
+ "scenes":[
+ {"type":"la-title","start":0,"title":"Ferrari sold fewer cars. It earned more.","titleY":520,"titleSize":98,"items":[{"kind":"car","x":540,"y":1080,"s":3.2,"at":"w3"}]},
+ {"type":"la-counter","start":"w10-0.1","transition":"fade","title":"Cars delivered by Ferrari","value":13640,"prefix":"","suffix":"","decimals":0,"at":"w15","countDur":1.8,"caption":"CARS DELIVERED, 2025","y":900},
+ {"type":"la-counter","start":"w22-0.1","transition":"fade","title":"Versus the year before","value":112,"prefix":"-","suffix":"","decimals":0,"at":"w24","countDur":1.2,"caption":"FEWER CARS THAN 2024","y":900},
+ {"type":"la-counter","start":"w32-0.1","transition":"fade","title":"Operating profit","value":12,"prefix":"+","suffix":"%","decimals":0,"at":"w36","countDur":1.2,"caption":"OPERATING PROFIT VS 2024","y":900},
+ {"type":"la-counter","start":"w40-0.1","transition":"fade","title":"Operating profit, 2025","value":2.1,"prefix":"€","suffix":"B","decimals":1,"at":"w40","countDur":1.6,"caption":"EBIT, 2025","y":900},
+ {"type":"la-counter","start":"w46-0.1","transition":"fade","title":"Operating margin","value":29.5,"suffix":"%","decimals":1,"at":"w47","countDur":1.8,"caption":"EBIT MARGIN, 2025","y":900},
+ {"type":"la-title","start":"w51-0.1","transition":"fade","title":"Low volume. On purpose.","titleY":520,"titleSize":104,"items":[{"kind":"priceTag","x":540,"y":1100,"s":3.2,"at":"w53"}]},
+ {"type":"la-reveal","start":"w57-0.1","transition":"fade","label":"T H E   L E S S O N","lines":[{"text":"Scarcity is a","fromWord":59,"size":70,"y":520},{"text":"profit strategy.","fromWord":62,"accent":["strategy."],"size":70,"y":640}]},
+ {"type":"la-end","start":"w64-0.1","transition":"fade","signoff":"Would you wait years for a car?","fromWord":64,"outro":"Follow for more","outroWord":74,"note":"True business stories, daily."}
+ ]}

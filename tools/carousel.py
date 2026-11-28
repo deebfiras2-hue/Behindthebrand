@@ -107,6 +107,21 @@ def inner(spec, n, total):
     else:
         if spec.get("headline"):
             y = draw_rich(img,d,M,y,spec["headline"],spec.get("hsize",90),W-2*M,spec.get("hsize",90)*1.12,INK,gel,True)+36
+        if kind == "vs":
+            # two columns: brand names as wordmark-style text, rows [label, left, right, winner(0/1)]
+            cw = (W-2*M-200)//2; xl = M+200; xr = xl+cw
+            fb = gel(46); 
+            for x,t in ((xl,spec["vs"][0]),(xr,spec["vs"][1])):
+                d.text((x,y),t,font=fb,fill=INK); 
+            y += 84; d.line((M,y,W-M,y),fill=INK,width=3); y += 30
+            for lab,a,b,win in spec["rows"]:
+                spaced(d,(M,y+18),lab[0],barlow(22,True),GRAY,3)
+                if len(lab)>1: spaced(d,(M,y+52),lab[1],barlow(22),GRAY,3)
+                for i,(x,v) in enumerate(((xl,a),(xr,b))):
+                    col = GREEN if win==i else INK
+                    d.text((x,y),v,font=gel(spec.get("vsize",64)),fill=col)
+                    if win==i: spaced(d,(x,y+84),"WINNER",barlow(22,True),GREEN,4)
+                y += 190; d.line((M,y-30,W-M,y-30),fill=RULE,width=2)
         if kind == "rows":
             for left, right in spec["rows"]:
                 fl = gel(spec.get("lsize",56))

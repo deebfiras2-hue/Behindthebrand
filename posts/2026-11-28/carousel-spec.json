@@ -1,0 +1,100 @@
+{
+ "cover": {
+  "pill": "BRAND VS BRAND",
+  "hero": "2×",
+  "hero_size": 330,
+  "hero_y": 230,
+  "label": "PEPSICO vs COCA-COLA",
+  "headline": "Pepsi sells twice as much as Coke. {Coke still earns more.}"
+ },
+ "slides": [
+  {
+   "label": "ROUND 1: SALES",
+   "kicker": "2025",
+   "headline": "Pepsi wins on {sales.} By a lot.",
+   "kind": "vs",
+   "vs": [
+    "PepsiCo",
+    "Coca-Cola"
+   ],
+   "rows": [
+    [
+     [
+      "NET REVENUE",
+      "2025"
+     ],
+     "$93.9B",
+     "$47.9B",
+     0
+    ]
+   ],
+   "body": "Almost *double.* So Pepsi must be the bigger money machine, right? *Not so fast.*",
+   "hsize": 84,
+   "bsize": 42,
+   "source": "PepsiCo and Coca-Cola full-year 2025 results (Feb 2026)"
+  },
+  {
+   "label": "ROUND 2: PROFIT",
+   "kicker": "THE TWIST",
+   "headline": "Half the sales. {More profit.}",
+   "kind": "vs",
+   "vs": [
+    "PepsiCo",
+    "Coca-Cola"
+   ],
+   "rows": [
+    [
+     [
+      "OPERATING",
+      "PROFIT"
+     ],
+     "$11.5B",
+     "$13.8B",
+     1
+    ],
+    [
+     [
+      "OPERATING",
+      "MARGIN"
+     ],
+     "12%",
+     "29%",
+     1
+    ]
+   ],
+   "hsize": 84,
+   "source": "Reported (GAAP) operating income, FY2025, per company filings"
+  },
+  {
+   "label": "WHY #1: COKE",
+   "kicker": "THE COKE MODEL",
+   "headline": "Coke sells the {secret formula,} not the trucks.",
+   "body": "Coca-Cola mostly makes *concentrate and syrup* and sells it to *bottling partners,* who fill, ship and stock the shelves. Coke keeps the *high-margin* part and leaves the heavy lifting to others.",
+   "hsize": 84,
+   "bsize": 40,
+   "source": "Coca-Cola 2025 annual report (Form 10-K)"
+  },
+  {
+   "label": "WHY #2: PEPSI",
+   "kicker": "THE PEPSI MODEL",
+   "headline": "Pepsi is a {snack empire} too.",
+   "body": "PepsiCo also owns *Frito-Lay* (Lay's, Doritos, Cheetos), *Quaker* and *Gatorade,* and runs much of its own *bottling and delivery.* That adds a lot of *sales,* but thinner margins.",
+   "hsize": 84,
+   "bsize": 40,
+   "source": "PepsiCo 2025 annual report"
+  },
+  {
+   "label": "THE FINE PRINT",
+   "kicker": "TO BE FAIR",
+   "headline": "One-offs {skew} the gap.",
+   "body": "Pepsi's reported profit took a *$2 billion impairment* (mostly its Rockstar brand). Adjusted, PepsiCo's core operating profit was *$14.9 billion,* about *16%* of sales. Coke's adjusted margin: *31%.* Coke's still about *double.*",
+   "hsize": 90,
+   "bsize": 40,
+   "source": "Company 2025 earnings releases; adjusted = non-GAAP"
+  }
+ ],
+ "last": {
+  "headline": "Sales is vanity. {Margin} is sanity.",
+  "body": "The company that makes less can still keep more. Which model would you rather own: Coke's formula or Pepsi's empire? Team Coke or team Pepsi?"
+ }
+}

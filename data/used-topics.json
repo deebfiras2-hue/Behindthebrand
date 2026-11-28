@@ -80,5 +80,19 @@
   "angle": "AWS 57% of operating profit from 18% of sales",
   "series": "reel",
   "format": "reel"
+ },
+ {
+  "date": "2026-11-28",
+  "brand": "PepsiCo / Coca-Cola",
+  "angle": "revenue vs operating margin, concentrate vs snacks+bottling",
+  "series": "BRAND VS BRAND",
+  "format": "carousel"
+ },
+ {
+  "date": "2026-11-28",
+  "brand": "Ferrari",
+  "angle": "fewer cars, higher profit; scarcity",
+  "series": "reel",
+  "format": "reel"
  }
 ]

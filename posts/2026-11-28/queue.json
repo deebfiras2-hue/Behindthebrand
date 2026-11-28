@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-28",
+ "items": [
+  {
+   "id": "c1",
+   "type": "carousel",
+   "series": "BRAND VS BRAND",
+   "time_utc": "2026-11-28T12:00:00Z",
+   "files": [
+    "posts/2026-11-28/CAROUSEL/1.jpg",
+    "posts/2026-11-28/CAROUSEL/2.jpg",
+    "posts/2026-11-28/CAROUSEL/3.jpg",
+    "posts/2026-11-28/CAROUSEL/4.jpg",
+    "posts/2026-11-28/CAROUSEL/5.jpg",
+    "posts/2026-11-28/CAROUSEL/6.jpg",
+    "posts/2026-11-28/CAROUSEL/7.jpg"
+   ],
+   "caption": "Pepsi sells twice as much as Coke. Coke still earns more 🥤\n\nIn 2025 PepsiCo reported $93.9 billion in revenue, almost double Coca-Cola's $47.9 billion.\nBut Coke's reported operating profit was $13.8 billion vs PepsiCo's $11.5 billion, a margin of about 29% vs 12%.\nCoke mostly sells concentrate to bottling partners. Pepsi also runs snacks (Frito-Lay) and much of its own bottling.\nFair print: one-offs skew the reported numbers. Adjusted, Coke's margin (31%) is still about double Pepsi's (about 16%).\n\nTeam Coke or team Pepsi? 👇\n\nSend this to someone who loves business stories.\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: Coca-Cola Q4/FY2025 results (Feb 2026) and 10-K; PepsiCo Q4/FY2025 earnings release and annual report (Feb 2026)\n\n#behindthebrand #business #businessstrategy #cocacola #pepsi #brandvsbrand #marketing #entrepreneur #businesslessons #businessstories",
+   "verified": true,
+   "status": "ready"
+  },
+  {
+   "id": "r1",
+   "type": "reel",
+   "time_utc": "2026-11-28T18:00:00Z",
+   "files": [
+    "posts/2026-11-28/REEL/reel.mp4"
+   ],
+   "cover": "posts/2026-11-28/REEL/reel-cover.jpg",
+   "caption": "Ferrari sold fewer cars last year and made more money 🏎️\n\nIn 2025 Ferrari delivered 13,640 cars, 112 fewer than in 2024.\nYet its operating profit rose 12% to €2.1 billion, a 29.5% margin.\nIt keeps volume low on purpose.\nScarcity is a profit strategy.\n\nWould you wait years for a car? 👇\n\nFollow @behindthebrand.explained for the business moves behind the brands you know 🏷️\n\nSources: Ferrari FY2025 results press release (10 Feb 2026)\n\n#behindthebrand #business #businessstrategy #ferrari #luxury #scarcity #cars #entrepreneur #businesslessons #businessstories",
+   "verified": true,
+   "status": "ready",
+   "needs_sound": false
+  }
+ ]
+}
